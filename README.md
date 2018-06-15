@@ -12,5 +12,5 @@ Dr Vu Nguyen, v.nguyen@deakin.edu.au
 The data has been preprocessed for background subtraction. (see script script_extract_feature.m).
 In the paper, we use Bayesian Nonparametric Factor Analysis which identifies K=40 hidden patterns from the data. However the posterior inference is slow. Thus, here we use the built-in function nnmf from Matlab for optimizing speed.
 
-run the demo_abnormal_detection.m	
+    run the demo_abnormal_detection.m	
 

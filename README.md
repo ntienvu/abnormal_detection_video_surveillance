@@ -2,7 +2,7 @@
 Abnormal Detection using NNMF on MIT video surveillance dataset
 
 ### Contact
-Dr Vu Nguyen, v.nguyen@deakin.edu.au
+Dr Vu Nguyen, vu@ieee.org
 
 ### Citation
     Bayesian Nonparametric Approaches to Abnormality Detection in Video Surveillance. Nguyen, V., Phung, D., Pham, D. S., & Venkatesh, S  In Annals of Data Science, pp 1-21, 2015.
